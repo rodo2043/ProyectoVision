@@ -1,0 +1,45 @@
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+
+    Instalacion:
+
+      Para poder ejecturar el programa y funcione correctamente se requiere
+      tener instalado lo siguiente
+	      -Python
+	      -PIL
+	       -Numpy
+         
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+
+    Python:
+
+      La mayoria de las distribuciones de linux ya cuentan con python en caso
+    	contrario escribimos el siguiente comando en terminal.
+	
+	      sudo apt-get install python
+        
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+    
+    PIL:
+
+      PIL es una libreria para el manejo de imagenes dentro de python
+	    se requiere para la funcionalidad del programa para instalarla
+	    ponemos el siguiente comando en terminal
+	
+	      sudo apt-get install python-imaging
+        
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+    
+    Numpy:
+
+      Numpy es una libreria que se utiliza para realizar funciones matematicas
+	    aunque no se utiliza tanto en el programa sin ella no funcionaria
+	    para instalarla el siguiente comando en terminal
+	
+	      sudo apt-get install python-numpy
+        
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
